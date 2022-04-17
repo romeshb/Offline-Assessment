@@ -40,7 +40,7 @@ Questions:
 
 <!-- Solution Using SQL -->
 ### Solution Using SQL
-Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessment/blob/master/Offline_Assignment_SQL_Solution.sql
+Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessment/blob/master/Offline_Assessment_SQL_Solution.sql
 
 #### Q1. Answer
 - ![image](https://user-images.githubusercontent.com/57130659/163727298-05e0c88e-db49-4eb8-80c6-f9e8861ea952.png)
@@ -60,7 +60,7 @@ Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessme
 
 <!-- Solution Using Pandas -->
 ### Solution Using Pandas
-Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessment/blob/master/Offline_Assignment_Pandas_Solution.ipynb
+Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessment/blob/master/Offline_Assessment_Pandas_Solution.ipynb
 
 #### Q1. Answer
 - ![image](https://user-images.githubusercontent.com/57130659/163727505-15e8332d-b784-4971-9b87-3174de961aac.png)
