@@ -63,7 +63,7 @@ Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessme
 Detailed Solution can be checked at: https://github.com/romeshb/Offline-Assessment/blob/master/Offline_Assessment_Pandas_Solution.ipynb
 
 #### Q1. Answer
-- ![image](https://user-images.githubusercontent.com/57130659/163727505-15e8332d-b784-4971-9b87-3174de961aac.png)
+- ![image](https://user-images.githubusercontent.com/57130659/163728597-7d84ac99-8944-4687-a117-46a1a15fd29d.png)
 
 #### Q2. Answer
 - ![image](https://user-images.githubusercontent.com/57130659/163727525-058e5500-47c0-4e65-810a-d2c30518c54f.png)
